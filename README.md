@@ -17,7 +17,7 @@ Mostly **Python** / **Lua**.
 
 ## Usage
 
-I don’t focus much on instructions — this is mostly a code playground.
+I don’t focus much on instructions this is mostly a code playground.
 
 ---
 
