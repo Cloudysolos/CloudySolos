@@ -7,11 +7,8 @@ Mostly **Python** / **Lua**.
 
 ## What you’ll find here
 
-- Automation scripts  
-- CLI & GUI tools  
-- Download helpers  
-- File & folder utilities  
-- Random useful experiments
+
+- Random experiments
 
 ---
 
